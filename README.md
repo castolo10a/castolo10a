@@ -6,9 +6,7 @@ Bienvenidos a mi perfil! 😎
 
 - 👋 Mi nombre es Daniel Castillo,  Administrador de Empresas y Desarrollador Web Full Stack. Tengo 25 años de edad, y soy de la Dorada, Caldas, Colombia. 
 
-- 👩‍💻 Me apasiona el mundo digital y también el fútbol.
-
-- 💖 Soy una persona apasionada por todo lo relacionado con la web y el trabajo en equipo. Mi principal objetivo es seguir aprendiendo y satisfacer mi curiosidad constante.
+- 👩‍💻 Soy una persona apasionada por todo lo relacionado con la web y el trabajo en equipo. Mi principal objetivo es seguir aprendiendo y satisfacer mi curiosidad constante.
 
 - 🌱 Creo firmemente en el poder de los proyectos personales y en colaborar con mi comunidad para ayudar a otros a alcanzar sus metas personales.
 
@@ -22,8 +20,10 @@ Bienvenidos a mi perfil! 😎
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/danielcastillo97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danielcastillo97/" height="30" width="40" /></a>
-<a href="daniel.302009@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email" alt="https://www.linkedin.com/in/danielcastillo97/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/danielcastillo97/" target="blank"><img align="center" src="![image](https://github.com/castolo10a/castolo10a/assets/42662751/e8685e08-b86c-4123-8fe3-f3284f7f4de4)
+" alt="https://www.linkedin.com/in/danielcastillo97/" height="30" width="40" /></a>
+<a href="daniel.302009@hotmail.com" target="blank"><img align="center" src="![image](https://github.com/castolo10a/castolo10a/assets/42662751/a52f4539-868b-40a0-b9a3-3079706ed612)
+" alt="daniel.302009@hotmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

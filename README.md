@@ -18,7 +18,7 @@ Bienvenidos a mi perfil! 😎
 - 👥 Estoy emocionado de formar parte de la comunidad de GitHub y de conectarme con otros profesionales y entusiastas de la tecnología.
 
 <h3 align="left">Contactame:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/danielcastillo97/" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="https://www.linkedin.com/in/danielcastillo97/" height="30" width="40" /></a><a href="daniel.302009@hotmail.com" target="blank"><img align="center" src="https://th.bing.com/th/id/R.4a2ec2d286c3ec64f77bf5f677226ec7?rik=1%2fEiPakgpgGB7Q&pid=ImgRaw&r=0" alt="daniel.302009@hotmail.com" height="30" width="40" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/danielcastillo97/" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="https://www.linkedin.com/in/danielcastillo97/" height="30" /></a><a href="daniel.302009@hotmail.com" target="blank"><img align="center" src="https://th.bing.com/th/id/R.4a2ec2d286c3ec64f77bf5f677226ec7?rik=1%2fEiPakgpgGB7Q&pid=ImgRaw&r=0" alt="daniel.302009@hotmail.com" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -5,7 +5,7 @@ Bienvenidos a mi perfil! 😎
 
 - 👋 Mi nombre es Daniel Castillo,  Administrador de Empresas y Desarrollador Web Full Stack. Tengo 25 años de edad, y soy de la Dorada, Caldas, Colombia. 
 
-- 👩‍💻 Soy una persona apasionada por todo lo relacionado con la web y el trabajo en equipo. Mi principal objetivo es seguir aprendiendo y satisfacer mi curiosidad constante.
+- 👩‍💻 Soy una persona apasionada por todo lo relacionado con la web y el trabajo en equipo.
 
 - 🌱 Creo firmemente en el poder de los proyectos personales y en colaborar con mi comunidad para ayudar a otros a alcanzar sus metas personales.
 

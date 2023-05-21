@@ -7,15 +7,15 @@ Bienvenidos a mi perfil! 😎
 
 - 👩‍💻 Soy una persona apasionada por todo lo relacionado con la web y el trabajo en equipo.
 
-- 🎯 Mi objetivo en la industria tech es encontrar un trabajo apasionante que me permita crecer profesionalmente, desarrollar mis habilidades técnicas y blandas. 
+- 🎯 Mi objetivo en la industria tech es encontrar un trabajo apasionante que me permita crecer profesionalmente, desarrollar mis habilidades técnicas y blandas.
+
+- 💻 Durante mi paso por el bootcamp de Henry, desarrollé habilidades técnicas y blandas en áreas como **Javascript, ReactJS, Redux, Git, Node.js, Express, Sequelize, PostgreSQL, HTML y CSS**. También adquirí habilidades en **trabajo en equipo, resolución de problemas y comunicación, entre otras**.
 
 - 🌱 Creo firmemente en el poder de los proyectos personales y en colaborar con mi comunidad para ayudar a otros a alcanzar sus metas personales.
 
 - 📱 Actualmente, estoy estudiando programación para dispositivos móviles, ampliando mis habilidades y explorando el emocionante mundo de las aplicaciones móviles.
 
 - 😊 Siempre estoy buscando oportunidades para crecer y expandir mi conocimiento. Me siento motivado por el aprendizaje continuo y la resolución de desafíos técnicos.
-
-- 💻 Durante mi paso por el bootcamp de Henry, desarrollé habilidades técnicas y blandas en áreas como **Javascript, ReactJS, Redux, Git, Node.js, Express, Sequelize, PostgreSQL, HTML y CSS**. También adquirí habilidades en **trabajo en equipo, resolución de problemas y comunicación, entre otras**.
 
 - 👥 Estoy emocionado de formar parte de la comunidad de GitHub y de conectarme con otros profesionales y entusiastas de la tecnología.
 

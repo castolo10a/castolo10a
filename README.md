@@ -1,23 +1,23 @@
 <h1 align="center">Hola 👋, soy Daniel Castillo</h1>
-<h3 align="center">Un apasionado Desarrollador Web Full Stack de Colombia</h3>
+<h3 align="center">Desarrollador Web Full Stack y Administrador de Empresas</h3>
 
 Bienvenidos a mi perfil! 😎
 
-- 👋 Mi nombre es Daniel Castillo,  Administrador de Empresas y Desarrollador Web Full Stack. Tengo 25 años de edad, y soy de la Dorada, Caldas, Colombia. 
+👋 Apasionado Desarrollador Web Full Stack y Administrador de Empresas con base en Colombia. A mis 25 años, me sumerjo en el mundo tech con energía y entusiasmo.
 
-- 👩‍💻 Soy una persona apasionada por todo lo relacionado con la web y el trabajo en equipo.
+👩‍💻 Mi fascinación por la web y mi amor por el trabajo en equipo me definen. Disfruto colaborar en proyectos que desafíen mis límites y fomenten la innovación.
 
-- 🎯 Mi objetivo en la industria tech es encontrar un trabajo apasionante que me permita crecer profesionalmente, desarrollar mis habilidades técnicas y blandas.
+🎯 Busco un trabajo en la industria tech que no solo sea apasionante, sino que también me brinde oportunidades para crecer profesionalmente. Mi enfoque se centra en desarrollar tanto mis habilidades técnicas como blandas.
 
-- 💻 Durante mi paso por el bootcamp de Henry, desarrollé habilidades técnicas y blandas en áreas como **Javascript, ReactJS, Redux, Git, Node.js, Express, Sequelize, PostgreSQL, HTML y CSS**. También adquirí habilidades en **trabajo en equipo, resolución de problemas y comunicación, entre otras**.
+💻 Durante mi participación en el bootcamp de Henry, me sumergí en el mundo de Javascript, ReactJS, Redux, Git, Node.js, Express, Sequelize, PostgreSQL, HTML y CSS. No solo adquirí habilidades técnicas, sino que también fortalecí competencias en trabajo en equipo, resolución de problemas y comunicación.
 
-- 🌱 Creo firmemente en el poder de los proyectos personales y en colaborar con mi comunidad para ayudar a otros a alcanzar sus metas personales.
+🌱 Creo firmemente en la importancia de los proyectos personales y colaborar con la comunidad. Mi objetivo es ayudar a otros a alcanzar sus metas personales mediante el intercambio de conocimientos y experiencias.
 
-- 📱 Actualmente, estoy estudiando programación para dispositivos móviles, ampliando mis habilidades y explorando el emocionante mundo de las aplicaciones móviles.
+📱 Actualmente, estoy inmerso en el estudio de programación para dispositivos móviles, ampliando mis habilidades y explorando el emocionante mundo de las aplicaciones móviles.
 
-- 😊 Siempre estoy buscando oportunidades para crecer y expandir mi conocimiento. Me siento motivado por el aprendizaje continuo y la resolución de desafíos técnicos.
+😊 Mi motivación radica en el aprendizaje continuo y en enfrentar desafíos técnicos. Siempre estoy en busca de oportunidades que me permitan expandir mi conocimiento y crecer como profesional.
 
-- 👥 Estoy emocionado de formar parte de la comunidad de GitHub y de conectarme con otros profesionales y entusiastas de la tecnología.
+👥 Estoy emocionado de formar parte activa de la comunidad de GitHub, donde puedo conectar con otros profesionales y entusiastas de la tecnología.
 
 <h3 align="left">Contactame:</h3>
 <p align="left"> <a href="https://fullstack-colombia.com/" target="blank"> <img align="center" src="https://clipground.com/images/pagina-web-logo-png.png" alt="portfolio" width="40" height="40" margin/> </a> <a href="https://www.linkedin.com/in/danielcastillo97/" target="blank"> <img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="https://www.linkedin.com/in/danielcastillo97/" width="40" height="40" /> </a> <a href="mailto:daniel.302009@hotmail.com" target="blank"> <img align="center" src="https://th.bing.com/th/id/R.4a2ec2d286c3ec64f77bf5f677226ec7?rik=1%2fEiPakgpgGB7Q&pid=ImgRaw&r=0" alt="daniel.302009@hotmail.com" width="40" height="40" /> </a> <a href="https://wa.me/+573116984474" target="blank"> <img align="center" src="https://th.bing.com/th/id/R.81f9842aa3f3882c3a1d072a026e83cb?rik=2sliihRQF7erqQ&pid=ImgRaw&r=0" alt="wpp" width="40"  height="40" /> </a>

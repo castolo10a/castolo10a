@@ -3,7 +3,7 @@
 
 Bienvenidos a mi perfil! 😎
 
-👋 Apasionado Desarrollador Web Full Stack y Administrador de Empresas con base en Colombia. A mis 25 años, me sumerjo en el mundo tech con energía y entusiasmo.
+👋 Soy un Apasionado Desarrollador Web Full Stack y Administrador de Empresas con base en Colombia. A mis 25 años, me sumerjo en el mundo tech con energía y entusiasmo.
 
 👩‍💻 Mi fascinación por la web y mi amor por el trabajo en equipo me definen. Disfruto colaborar en proyectos que desafíen mis límites y fomenten la innovación.
 

@@ -1,23 +1,21 @@
 <h1 align="center">Hola 👋, soy Daniel Castillo</h1>
-<h3 align="center">Desarrollador Web Full Stack y Administrador de Empresas</h3>
+<h3 align="center">Desarrollador Web Full Stack especializado en React y React Native</h3>
 
 Bienvenidos a mi perfil! 😎
 
-👋 Soy un Apasionado Desarrollador Web Full Stack y Administrador de Empresas con base en Colombia. A mis 25 años, me sumerjo en el mundo tech con energía y entusiasmo.
+👋 Soy **Desarrollador Web Full Stack** con experiencia en **React**, **React Native**, y tecnologías complementarias como **Node.js**, **Express**, **Sequelize**, y **PostgreSQL**. Con base en Colombia, tengo una pasión por crear aplicaciones móviles y web de alta calidad.
 
-👩‍💻 Mi fascinación por la web y mi amor por el trabajo en equipo me definen. Disfruto colaborar en proyectos que desafíen mis límites y fomenten la innovación.
+💻 Mi enfoque está en el desarrollo front-end, y me especializo en la creación de interfaces atractivas y funcionales. Me encanta colaborar con equipos multidisciplinarios y enfrentar desafíos técnicos para ofrecer soluciones innovadoras y eficientes.
 
-🎯 Busco un trabajo en la industria tech que no solo sea apasionante, sino que también me brinde oportunidades para crecer profesionalmente. Mi enfoque se centra en desarrollar tanto mis habilidades técnicas como blandas.
+🎯 Busco oportunidades que me permitan profundizar en el desarrollo front-end y especializarme aún más en **React** y **React Native**. Estoy comprometido con el crecimiento profesional continuo y la mejora constante de mis habilidades técnicas y de comunicación.
 
-💻 Durante mi participación en el bootcamp de Henry, me sumergí en el mundo de Javascript, ReactJS, Redux, Git, Node.js, Express, Sequelize, PostgreSQL, HTML y CSS. No solo adquirí habilidades técnicas, sino que también fortalecí competencias en trabajo en equipo, resolución de problemas y comunicación.
+🛠️ Durante mi experiencia en el bootcamp de Henry y en proyectos freelance, he trabajado con **JavaScript**, **TypeScript**, **Redux**, **Next.js**, **TailwindCSS**, y he participado en el desarrollo y mantenimiento de aplicaciones tanto en el front-end como en el back-end.
 
-🌱 Creo firmemente en la importancia de los proyectos personales y colaborar con la comunidad. Mi objetivo es ayudar a otros a alcanzar sus metas personales mediante el intercambio de conocimientos y experiencias.
+📱 Recientemente, completé mi formación práctica en **Rebus Technology**, donde expandí mis habilidades en **React Native** y contribuí a mejorar la calidad y el rendimiento de aplicaciones móviles.
 
-📱 Actualmente, estoy inmerso en el estudio de programación para dispositivos móviles, ampliando mis habilidades y explorando el emocionante mundo de las aplicaciones móviles.
+😊 Estoy emocionado de conectar con otros profesionales y entusiastas de la tecnología aquí en GitHub. ¡Espero colaborar en proyectos interesantes y seguir aprendiendo en esta comunidad!
 
-😊 Mi motivación radica en el aprendizaje continuo y en enfrentar desafíos técnicos. Siempre estoy en busca de oportunidades que me permitan expandir mi conocimiento y crecer como profesional.
-
-👥 Estoy emocionado de formar parte activa de la comunidad de GitHub, donde puedo conectar con otros profesionales y entusiastas de la tecnología.
+👥 Si estás interesado en colaborar o simplemente quieres conversar sobre tecnología, no dudes en contactarme. ¡Estoy siempre dispuesto a aprender y compartir!
 
 <h3 align="left">Contactame:</h3>
 <p align="left"> <a href="https://fullstack-colombia.com/" target="blank"> <img align="center" src="https://clipground.com/images/pagina-web-logo-png.png" alt="portfolio" width="40" height="40" margin/> </a> <a href="https://www.linkedin.com/in/danielcastillo97/" target="blank"> <img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="https://www.linkedin.com/in/danielcastillo97/" width="40" height="40" /> </a> <a href="mailto:daniel.302009@hotmail.com" target="blank"> <img align="center" src="https://th.bing.com/th/id/R.4a2ec2d286c3ec64f77bf5f677226ec7?rik=1%2fEiPakgpgGB7Q&pid=ImgRaw&r=0" alt="daniel.302009@hotmail.com" width="40" height="40" /> </a> <a href="https://wa.me/+573116984474" target="blank"> <img align="center" src="https://th.bing.com/th/id/R.81f9842aa3f3882c3a1d072a026e83cb?rik=2sliihRQF7erqQ&pid=ImgRaw&r=0" alt="wpp" width="40"  height="40" /> </a>

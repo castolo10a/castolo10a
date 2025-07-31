@@ -42,7 +42,7 @@ Soy un **desarrollador frontend** con más de dos años de experiencia creando i
   <a href="https://castillocoder.netlify.app/" target="_blank"> 
     <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portafolio" width="36" height="36"/> 
   </a>  
-  <a href="[mailto:castillod159@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=castillod159@gmail.com)" target="_blank"> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=castillod159@gmail.com" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="36" height="36"/> 
   </a>  
 </p>
